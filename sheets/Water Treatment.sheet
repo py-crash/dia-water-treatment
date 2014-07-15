@@ -6,18 +6,16 @@
 
 <contents>
 <object name="WaterTreatment - CSTR">
-<description>CSTR used for adding the floculant</description></object>
-
+    <description>CSTR used for adding the floculant</description></object>
 <object name="WaterTreatment - floculador">
-<description>Floculant trank</description></object>
-
+    <description>Floculant trank</description></object>
 <object name="WaterTreatment - lyre">
-<description>A Lira</description></object>
-
+    <description>A Lira</description></object>
 <object name="WaterTreatment - motor">
-<description>Just a motor with a axis</description></object>
-
+    <description>Just a motor with a axis</description></object>
 <object name="WaterTreatment - stirrer">
-<description>Just a stirrer from a cstr</description></object>
+    <description>Just a stirrer from a cstr</description></object>
+<object name="WaterTreatment - decanter">
+    <description>A linear decanter</description></object>
 </contents>
 </sheet>
