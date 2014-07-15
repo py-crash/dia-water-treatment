@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>WaterTreatment - CSTR</name>
+  <icon>CSTR.png</icon>
+  <connections>
+    <point x="10.95" y="18.225"/>
+    <point x="10.95" y="37.675"/>
+    <point x="25" y="37.675"/>
+    <point x="25" y="18.225"/>
+    <point x="10.95" y="27.95"/>
+    <point x="17.975" y="37.675"/>
+    <point x="25" y="27.95"/>
+    <point x="17.3105" y="11.725"/>
+    <point x="19.011" y="15.126"/>
+    <point x="17.3105" y="15.126"/>
+    <point x="17.3105" y="13.4255"/>
+    <point x="19.011" y="11.725"/>
+    <point x="19.011" y="13.4255"/>
+    <point x="18.1608" y="15.126"/>
+    <point x="18.1608" y="11.725"/>
+    <point x="16.4602" y="14.2757"/>
+    <point x="19.8612" y="14.2757"/>
+    <point x="18.1608" y="14.2757"/>
+    <point x="16.4602" y="12.5752"/>
+    <point x="19.8612" y="12.5752"/>
+    <point x="18.1608" y="12.5752"/>
+    <point x="18.1608" y="31.2808"/>
+    <point x="18.1608" y="15.126"/>
+    <point x="18.1608" y="23.2034"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="10.95" y="18.225" width="14.05" height="19.45"/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="10.95,18.225 10.95,37.675 25,37.675 25,18.225 "/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="17.3105" y="11.725" width="1.7005" height="3.401"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 15.61 31.2808 C 15.61,29.5803 20.7115,32.9813 20.7115,31.2808 C 20.7115,29.5803 15.61,32.9813 15.61,31.2808"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="16.4602" y1="14.2757" x2="19.8612" y2="14.2757"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="16.4602" y1="12.5752" x2="19.8612" y2="12.5752"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="18.1608" y1="31.2808" x2="18.1608" y2="15.126"/>
+  </svg:svg>
+</shape>

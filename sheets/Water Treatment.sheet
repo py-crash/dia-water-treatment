@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+
+<name>Water Treatment</name>
+<description>Collection for water treatment plants</description>
+
+<contents>
+<object name="WaterTreatment - CSTR">
+<description>CSTR used for adding the floculant</description></object>
+
+<object name="WaterTreatment - floculador">
+<description>Floculant trank</description></object>
+
+<object name="WaterTreatment - lyre">
+<description>A Lira</description></object>
+
+<object name="WaterTreatment - motor">
+<description>Just a motor with a axis</description></object>
+
+<object name="WaterTreatment - stirrer">
+<description>Just a stirrer from a cstr</description></object>
+</contents>
+</sheet>
