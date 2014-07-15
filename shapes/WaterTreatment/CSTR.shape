@@ -30,7 +30,8 @@
   </connections>
   <aspectratio type="fixed"/>
   <svg:svg>
-    <svg:rect style="fill: #ffffff" x="10.95" y="18.225" width="14.05" height="19.45"/>
+    <!--   TODO This seems nasty and needs some clean up   -->
+    <svg:rect style="fill: default" x="10.95" y="18.225" width="14.05" height="19.45"/>
     <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="10.95,18.225 10.95,37.675 25,37.675 25,18.225 "/>
     <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="17.3105" y="11.725" width="1.7005" height="3.401"/>
     <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 15.61 31.2808 C 15.61,29.5803 20.7115,32.9813 20.7115,31.2808 C 20.7115,29.5803 15.61,32.9813 15.61,31.2808"/>
