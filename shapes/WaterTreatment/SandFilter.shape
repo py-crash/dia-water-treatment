@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>WaterTreatment - SandFilter</name>
+  <icon>SandFilter.png</icon>
+  <connections>
+    <point x="0" y="1"/>
+    <point x="0" y="2"/>
+    <point x="0" y="3"/>
+    <point x="0" y="4"/>
+    <point x="0" y="5"/>
+    <point x="0" y="6"/>
+    <point x="0" y="7"/>
+    <point x="4" y="1"/>
+    <point x="4" y="2"/>
+    <point x="4" y="3"/>
+    <point x="4" y="4"/>
+    <point x="4" y="5"/>
+    <point x="4" y="6"/>
+    <point x="4" y="7"/>
+    <point x="2" y="1"/>
+    <point x="2" y="8"/>
+    <point x="2" y="4" main="yes"/>
+  </connections>
+  <svg:svg>
+    <svg:polygon style="fill:default; stroke:none" points="0,1 0,7 4,7 4,1"/>
+    <svg:line x1="0" y1="1" x2="0" y2="7"/>
+    <svg:line x1="4" y1="1" x2="4" y2="7"/>
+    <svg:line style="stroke-dasharray: 0.3" x1="0" y1="2" x2="4" y2="2"/>
+    <svg:line style="stroke-dasharray: 0.3" x1="0" y1="6" x2="4" y2="6"/>
+    <svg:line style="stroke-width: 0.1" x1="0" y1="3" x2="1" y2="2"/>
+    <svg:line style="stroke-width: 0.1" x1="0" y1="4" x2="2" y2="2"/>
+    <svg:line style="stroke-width: 0.1" x1="0" y1="5" x2="3" y2="2"/>
+    <svg:line style="stroke-width: 0.1" x1="0" y1="6" x2="4" y2="2"/>
+    <svg:line style="stroke-width: 0.1" x1="1" y1="6" x2="4" y2="3"/>
+    <svg:line style="stroke-width: 0.1" x1="2" y1="6" x2="4" y2="4"/>
+    <svg:line style="stroke-width: 0.1" x1="3" y1="6" x2="4" y2="5"/>
+    <svg:polygon style="fill:default; stroke:none" points="0,7 1.5,7.5 1.5,8 2.5,8 2.5,7.5 4,7z"/>
+    <svg:polyline points="0,7 1.5,7.5 1.5,8"/>
+    <svg:polyline points="4,7 2.5,7.5 2.5,8"/>
+  </svg:svg>
+</shape>

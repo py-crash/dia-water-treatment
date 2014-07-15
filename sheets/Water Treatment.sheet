@@ -17,5 +17,7 @@
     <description>Just a stirrer from a cstr</description></object>
 <object name="WaterTreatment - decanter">
     <description>A linear decanter</description></object>
+<object name="WaterTreatment - SandFilter">
+    <description>A Sand filter</description></object>
 </contents>
 </sheet>
